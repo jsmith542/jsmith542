@@ -2,6 +2,9 @@
 
 
 - 🌱 I’m currently learning ...
+- Website Development
+- Git and GitHub
+- HTML, CSS, JavaScript
 <!--
 **jsmith542/jsmith542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
